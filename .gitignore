@@ -1,0 +1,21 @@
+# CMake build directory
+/out/
+/build*/
+
+# Dev database (personal data, tracked na ho)
+/data/
+
+# Compiled artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+
+# Editor / IDE
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
